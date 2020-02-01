@@ -1,6 +1,5 @@
 # Development_Econometrics_Project
 Hypothetical Development Econometrics Project Proposal (EC 522 - Boston U)
 
-- Class project in writing a hypothetical project proposal for funding a RCT study for a development econometrics class at Boston University.
-
-I research a social credit system that is being piloted throughout China that aims to have social and economic benefits to society.
+- Class project in writing a hypothetical project proposal for funding a RCT study. 
+A social credit system is being piloted throughout China that aims to have social and economic benefits to society. The brief paper focuses on how to set up an experiment to see whether this social credit system helps improve firms access to increased credit and investment by being "upstanding citizens".
